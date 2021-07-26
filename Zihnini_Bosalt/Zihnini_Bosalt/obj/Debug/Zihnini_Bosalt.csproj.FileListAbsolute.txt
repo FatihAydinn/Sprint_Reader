@@ -1,0 +1,25 @@
+C:\Users\Fatih\Desktop\Zihnini_Bosalt\Zihnini_Bosalt\bin\Debug\Zihnini_Bosalt.exe.config
+C:\Users\Fatih\Desktop\Zihnini_Bosalt\Zihnini_Bosalt\bin\Debug\Zihnini_Bosalt.exe
+C:\Users\Fatih\Desktop\Zihnini_Bosalt\Zihnini_Bosalt\bin\Debug\Zihnini_Bosalt.pdb
+C:\Users\Fatih\Desktop\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.csprojResolveAssemblyReference.cache
+C:\Users\Fatih\Desktop\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.Form1.resources
+C:\Users\Fatih\Desktop\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.Properties.Resources.resources
+C:\Users\Fatih\Desktop\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.csproj.GenerateResource.Cache
+C:\Users\Fatih\Desktop\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.exe
+C:\Users\Fatih\Desktop\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.pdb
+C:\Users\Fatih\Desktop\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.Kayit.resources
+C:\Users\Fatih\Desktop\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.Giris.resources
+C:\Users\Fatih\Desktop\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.SifremiUnuttum.resources
+C:\Users\Fatih\Desktop\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.SifreSifirlama.resources
+C:\Users\Fatih\Desktop\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.Skor.resources
+C:\Users\Fatih\Desktop\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.Iletisim.resources
+C:\Users\Fatih\Desktop\195611025-Ahmet Fatih Aydın - Nesne Tabanlı Prog\Zihnini_Bosalt\Zihnini_Bosalt\bin\Debug\Zihnini_Bosalt.exe.config
+C:\Users\Fatih\Desktop\195611025-Ahmet Fatih Aydın - Nesne Tabanlı Prog\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.exe
+C:\Users\Fatih\Desktop\195611025-Ahmet Fatih Aydın - Nesne Tabanlı Prog\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.pdb
+C:\Users\Fatih\Desktop\195611025-Ahmet Fatih Aydın - Nesne Tabanlı Prog\Zihnini_Bosalt\Zihnini_Bosalt\bin\Debug\Zihnini_Bosalt.exe
+C:\Users\Fatih\Desktop\195611025-Ahmet Fatih Aydın - Nesne Tabanlı Prog\Zihnini_Bosalt\Zihnini_Bosalt\bin\Debug\Zihnini_Bosalt.pdb
+C:\Users\Fatih\Desktop\195611025-Ahmet Fatih Aydın - Nesne Tabanlı Prog\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.csprojResolveAssemblyReference.cache
+C:\Users\Fatih\Desktop\195611025-Ahmet Fatih Aydın - Nesne Tabanlı Prog\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.Form1.resources
+C:\Users\Fatih\Desktop\195611025-Ahmet Fatih Aydın - Nesne Tabanlı Prog\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.Iletisim.resources
+C:\Users\Fatih\Desktop\195611025-Ahmet Fatih Aydın - Nesne Tabanlı Prog\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.Properties.Resources.resources
+C:\Users\Fatih\Desktop\195611025-Ahmet Fatih Aydın - Nesne Tabanlı Prog\Zihnini_Bosalt\Zihnini_Bosalt\obj\Debug\Zihnini_Bosalt.csproj.GenerateResource.Cache
